@@ -1,0 +1,16 @@
+.sm-icons {
+    flex-direction: row !important;
+}
+
+.sm-icons .nav-icon {
+    padding-right: 1em;
+    color: black;
+    font-size: 20px;
+}
+
+li>.nav-link {
+    color: white;
+    font-size: 20px;
+    font-weight: 400;
+
+}
